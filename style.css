@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+
+
+#upper-text{
+    font-size: 18px;
+ font-family: system-ui,Roboto'Open Sans', arial,sans-serif;
+ color:#212121;
+ font-weight: 400;
+ font-style: inherit;
+ padding-bottom: 10px;
+}
+
+#box{
+
+    border-radius: 5px;
+    background-color: #388e3c;
+    width: 55px;
+    height: fit-content;
+    color: white;
+    text-align: center;
+    padding-top: 0;
+    margin-left: 10px;
+    max-height: 25px;
+}
+#image{
+    height:25px;
+    width:auto;
+
+}
+
+#rating{
+    opacity: 0.50;
+    font-weight: 600;
+}
+
+#off{
+color:green;
+}
+   
+
+
+
+
+
+
+#prices-l{
+    padding-left: 10px;
+    font-size: 28px;
+    vertical-align: sub;
+    display: inline-block;
+    
+}
+
+#offf{
+    padding-left: 4px;
+    color:green;
+    display: inline-block;
+    letter-spacing: -2px; 
+    font-size: 16px;  
+    
+    
+}
+
+#cut{
+    padding-left: 4px;
+    color:#878787;
+    font-size: 16px;
+    text-decoration: line-through;
+    vertical-align: middle;
+    padding-top: 20px;
+    display: inline-block;
+}
+#fee{
+    font-size: 13px;
+    display: inline-block;
+    padding-left: 10px;
+
+}
+
+#offers{
+    font-size: 20px;
+}
